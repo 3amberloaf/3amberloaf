@@ -1,4 +1,6 @@
-![111 (1)](https://github.com/3amberloaf/3amberloaf/assets/113117196/5a3895ea-5d24-4d1f-92a3-3b1b50a1ff74)
+<p align="center">
+  <img src="https://github.com/3amberloaf/3amberloaf/blob/main/111.gif">
+</p>
 
 ### Welcome to my Github! 
 - I am currently CS graduate student at NJIT who just loves to code!
