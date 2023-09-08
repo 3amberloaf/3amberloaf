@@ -1,4 +1,5 @@
-![111](https://github.com/3amberloaf/3amberloaf/assets/113117196/b4a97261-3847-4028-9ab6-e53589a3994a)"
+![111 (1)](https://github.com/3amberloaf/3amberloaf/assets/113117196/5a3895ea-5d24-4d1f-92a3-3b1b50a1ff74)
+
 ### Welcome to my Github! 
 - I am currently CS graduate student at NJIT who just loves to code!
 - I am looking to collaborate on projects and learn from others, so reach out!
