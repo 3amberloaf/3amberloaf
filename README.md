@@ -1,5 +1,5 @@
+![111](https://github.com/3amberloaf/3amberloaf/assets/113117196/b4a97261-3847-4028-9ab6-e53589a3994a)"
 ### Welcome to my Github! 
-
 - I am currently CS graduate student at NJIT who just loves to code!
 - I am looking to collaborate on projects and learn from others, so reach out!
 - My goals for this year are to improve my JS skills and get a job/internship.
