@@ -1,4 +1,9 @@
-### Welcome to my Github! I am a CS graduate student at NJIT who loves coding!
+### Welcome to my Github! 
+
+- I am currently CS graduate student at NJIT who just loves to code!
+- I am looking to collaborate on projects and learn from others, so reach out!
+- My goals for this year are to improve my JS skills and get a job/internship.
+- Fun Fact: I grew up with Chickens named Parmesan, Francese, Nelly Nelson the Nugget 🐓
 
 ## 🔧 Technologies & Tools
 
@@ -32,5 +37,5 @@ Here are some of my recent projects that demonstrate my skills and expertise:
 
 You can reach out to me via email at ambersautner@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/amber-sautner/).
 
-Looking forward to new challenges and opportunities for collaboration. Let's build something great together! 💪
+Looking forward to meeting new people and enhancing our skills together! 💪
 
