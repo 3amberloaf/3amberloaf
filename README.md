@@ -3,7 +3,7 @@
 </p>
 
 # Welcome to my Github! 
-- I am currently CS graduate student at NJIT who just loves to code 😄
+- I am currently a CS master's student at NJIT who just loves to code 😄
 - I am looking to collaborate on projects and learn from others, so reach out 👋🏻
 - My goals for this year are to improve my JS skills and get a job/internship 👩🏼‍💻
 - Fun Fact: I grew up with chickens named Marsala, Parmesan, Francese, Nelly Nelson the Nugget 🐓
