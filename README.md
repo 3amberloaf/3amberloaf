@@ -38,7 +38,7 @@ Here are some of my recent projects that demonstrate my skills and expertise:
 
 # 📨 Contact Me!
 
-You can reach out to me via email at ambersautner@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/amber-sautner/). I would love to hear about recent projects you may be working on, possible help I could provide, or just having a chat about shared tech interests!
+You can reach out to me via email at ambersautner3@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/amber-sautner/). I would love to hear about recent projects you may be working on, possible help I could provide, or just having a chat about shared tech interests!
 
 Looking forward to meeting new people and enhancing our skills together! 🙌🏻
 
